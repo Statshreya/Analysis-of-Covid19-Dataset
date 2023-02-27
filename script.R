@@ -2,7 +2,7 @@ rm(list=ls())
 install.packages("Hmisc")
 library(Hmisc) 
 
-data <- read.csv("C:/Users/manoj/Downloads/Covid_R/COVID19_line_list_data.csv")
+data <- read.csv("C:/Users/admin/files/Covid_R/COVID19_line_list_data.csv")
 describe(data) 
 
 
