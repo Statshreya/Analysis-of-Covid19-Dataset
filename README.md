@@ -1,3 +1,4 @@
+![Shreya](https://github.com/Statshreya/Analysis-of-Covid19-Dataset/blob/fd993ea28ac9902c86f4dfc7cfea4d1fef18618a/Data.png)
 # Analysis of Covid-19 Dataset using R
 This project is an analysis of the Covid-19 dataset using R programming language. The Covid-19 dataset has been widely used by researchers and analysts to track the spread of the pandemic and its impact on different countries and regions.
 In this analysis, we aim to provide insights into the Covid-19 dataset, such as the trends in the number of confirmed cases, deaths, and recoveries, as well as the factors that may have contributed to the spread of the virus.
